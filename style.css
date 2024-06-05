@@ -1,0 +1,34 @@
+.heading{
+    width:100%;
+    text-align:left;
+}
+.heading h3{
+    display:inline;
+}
+.heading button{
+    border:1px solid white;
+    float:right;
+}
+#play, #status, #restart{
+    font-size: 22px;
+}
+canvas{
+    box-shadow: 10px 10px 10px white ;
+    border-radius:10px;
+    border: 5px white solid;
+    margin-top: 150px;
+}
+body{
+    background:cover;
+}
+.modal-dialog {
+    width:90%;
+}
+.footer{
+position:fixed;
+width:100%;
+background-color:white;
+color: black;
+bottom:0;
+line-height:2;
+}
